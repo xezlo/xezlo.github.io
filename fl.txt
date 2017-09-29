@@ -1,0 +1,20 @@
+<html>
+<head>
+<title>Xezlo</title>
+
+<head>
+<body>
+<div id=nav>
+<script>
+  (function() {
+    var cx = '005970544996654062481:tpg_357j_xc';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = 'https://cse.google.com/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:search></gcse:search>
+</div>
